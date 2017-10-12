@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LimitedStoneUp</string>
+    <string name="gamestart">ゲームスタート</string>
+    <string name="back">戻る</string>
+    <string name="pass">パス</string>
+    <string name="first">先手</string>
+    <string name="second">後手</string>
+    <string name="again">もう一度</string>
+</resources>
